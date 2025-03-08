@@ -1,6 +1,6 @@
 # To Do List
 
-Bem-vindo ao repositório do **To Do List**! Este projeto foi desenvolvido como parte da **Summer Academy da Accenture**, utilizando **React e CSS** para fornecer uma experiência intuitiva e eficiente na organização de tarefas. Além disso, foi aplicada a **Psicologia das Cores** para tornar a interface mais agradável e funcional para o usuário.
+Bem-vindo ao repositório do **To Do List**! Este projeto foi desenvolvido para a **Summer Academy** da **Accenture**, utilizando **React e CSS** para fornecer uma experiência intuitiva e eficiente na organização de tarefas. Além disso, foi aplicada a **Psicologia das Cores** para tornar a interface mais agradável e funcional para o usuário.
 
 ![image](https://github.com/user-attachments/assets/3cb56bd2-eb60-496e-95da-f66f4185d637)
 
